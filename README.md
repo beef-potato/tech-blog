@@ -5,4 +5,5 @@
 
 ## 12
 
+- issue2.md: [学习资料整理](./post/issue2.md)
 - issue 1: [新的博客](./post/issue1.md)
