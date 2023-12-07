@@ -9,6 +9,9 @@
 
 随后又在 github 上看到求是潮的浙大课程攻略分享 https://github.com/QSCTech/zju-icicles ，还有其他高校的试题库等。我也提交了自己的 PR。
 
+除了求是潮的课程攻略，还有图灵班的课程攻略，https://github.com/ZJU-Turing/TuringCourses ， 不愧是图灵班还有自己的课程攻略，不过内容还是比较少，数理部分可以看看。我们学校还有其他专业打算/已经自建一个课程资料分享仓库，分专业固然不错，但是这样一来又要重复进行很多低质量的劳动。而且换代以后，文档和仓库的维护也很成问题。例如如何把自己的仓库给别人代理。
+
+
 
 
 ## 问题
@@ -29,4 +32,10 @@ https://squidfunk.github.io/mkdocs-material/getting-started/
 
 mkdocs，csdiy和小角龙前辈的博客都是基于此，感觉我也可以尝试迁移到这里。目前还是用自己设计的结构写点东西，再考虑博客的前端和获取难易度。
 
+
+## 协作者
+
+https://github.com/beef-potato/tech-blog/settings/access
+
+以我的博客为例，在setting 中找到access, 然后邀请其他人协作，可以将其权限设置为owner，转让仓库的所有权。
 
