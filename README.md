@@ -5,6 +5,7 @@
 
 ## 12
 
+- issue4.md: [gitattributesFile](./post/issue4.md)
 - issue3.md: [微软docx2pdf](./post/issue3.md)
 - issue2.md: [学习资料整理](./post/issue2.md)
 - issue 1: [新的博客](./post/issue1.md)
