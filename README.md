@@ -5,6 +5,7 @@
 
 ## 12
 
+- issue6.md: [电子书查找](./post/issue6.md)
 - issue5.md: [开机启动脚本](./post/issue5.md)
 - issue4.md: [gitattributesFile](./post/issue4.md)
 - issue3.md: [微软docx2pdf](./post/issue3.md)
