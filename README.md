@@ -1,6 +1,13 @@
 # tech-blog
 新的个人博客，不用前端网页了
 
+# 2024
+
+## 1
+
+- issue8.md: [picx使用](./post/issue8.md)
+- issue7.md: [u盘 Trojan](./post/issue7.md)
+
 # 2023
 
 ## 12
