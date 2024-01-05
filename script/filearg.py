@@ -16,6 +16,11 @@ args = parser.parse_args()
 
 titleName = args.title
 
+# warn the user if the working path is not in script:
+
+if os.curdir != "script":
+    raise NameError("hi, you should set working path to the script.")
+
 # new post, the same name will make two markdown files
 
 dirls = os.listdir("../post")
