@@ -18,7 +18,9 @@ titleName = args.title
 
 # warn the user if the working path is not in script:
 
-if os.curdir != "script":
+script_directory = os.path.dirname(os.path.abspath(__file__))  # Get the directory of the script
+
+if os.getcwd() != script_directory:
     raise NameError("hi, you should set working path to the script.")
 
 # new post, the same name will make two markdown files
