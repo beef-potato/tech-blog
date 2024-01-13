@@ -5,6 +5,7 @@
 
 ## 1
 
+- issue9.md: [μTorrent继续下载](./post/issue9.md)
 - issue8.md: [picx使用](./post/issue8.md)
 - issue7.md: [u盘 Trojan](./post/issue7.md)
 
