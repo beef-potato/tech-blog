@@ -3,8 +3,13 @@
 
 # 2024
 
+## 2
+
+- issue11.md: [windows修改用户名](./post/issue11.md)
+
 ## 1
 
+- issue10.md: [派对游戏的持久力](./post/issue10.md)
 - issue9.md: [μTorrent继续下载](./post/issue9.md)
 - issue8.md: [picx使用](./post/issue8.md)
 - issue7.md: [u盘 Trojan](./post/issue7.md)
